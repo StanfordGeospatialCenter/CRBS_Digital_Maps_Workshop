@@ -77,7 +77,12 @@ If, at some point, you'd like to "get your hands dirty" so to speak, I've actual
 
 ####Find a Map that is Already Georeferenced, or Georeference One
 
+Here is a link to the one I will use:
+[http://rumsey.georeferencer.com/map/0E1wB8zfr9TlxahEYadegT/201501250350-oNA4Vn/visualize](http://rumsey.georeferencer.com/map/0E1wB8zfr9TlxahEYadegT/201501250350-oNA4Vn/visualize)
+
 ####Go to the Embed OGC WMTS Tiles Page for your Map
+
+[http://rumsey.georeferencer.com/map/0E1wB8zfr9TlxahEYadegT/201501250350-oNA4Vn/wmts](http://rumsey.georeferencer.com/map/0E1wB8zfr9TlxahEYadegT/201501250350-oNA4Vn/wmts)
 
 ####Copy the Web Address of the Map's Tile Service
 
