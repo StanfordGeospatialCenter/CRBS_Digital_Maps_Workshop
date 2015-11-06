@@ -193,6 +193,7 @@ Somehow, through technicalities we don’t quite understand, The Saloon gets the
 - center: [37.764878, -122.424290]
 - zoom: 16
 ```
+![http://www.missionmission.org/wp-content/uploads/2011/03/elixer-1.jpg](http://www.missionmission.org/wp-content/uploads/2011/03/elixer-1.jpg)
 The Mission  
 Established: 1858  
 
@@ -203,6 +204,7 @@ While many historic bars in San Francisco have operated as other businesses, lik
 - center: [37.797812, -122.400749]
 - zoom: 16
 ```
+![http://ww3.hdnux.com/photos/12/46/30/2778634/11/920x920.jpg](http://ww3.hdnux.com/photos/12/46/30/2778634/11/920x920.jpg)
 Jackson Square  
 Established: 1851  
 
