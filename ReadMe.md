@@ -147,7 +147,9 @@ The Results Spreadsheet:
 
 ###Now use Google to search for the bar name (It helps to include the neighborhood, too)
 
-* Enter the name of the bar into your 
+* Find the Address of the bar and Cut & Paste it into the form
+* Find a short description of the bar (The Google results panel on the right often has a succinct description) and paste it into the form
+* Find a link to the website or Facebook page for the bar and paste it into the form
 
 
 ###You will need to find an image to use in the popup for your bar.  
@@ -173,7 +175,14 @@ The Results Spreadsheet:
 
 ##Activity 5 - Creating a Map on CartoDB.com with the Data
 
+Here, I will demonstrate the import of the collected data into CartoDB.com for use in a web map application.
 
+Time permitting, we will all import the layer and experiment with creating a custom visualization and custom info popups. 
+
+If you have not, you should go to [CartoDB.com/signup](http://CartoDB.com/signup) and create an account. 
+
+We will import the data from a CSV exported from this results table:
+[https://docs.google.com/spreadsheets/d/10hAFExkk8V3Onfx1E5vD3FRsaLRaxW6V-_JKlq-pOvY/edit?usp=sharing](https://docs.google.com/spreadsheets/d/10hAFExkk8V3Onfx1E5vD3FRsaLRaxW6V-_JKlq-pOvY/edit?usp=sharing)
 
 ##Activity 6 - Creating a StoryMap with Odyssey.js
 

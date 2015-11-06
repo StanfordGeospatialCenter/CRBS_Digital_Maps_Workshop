@@ -164,7 +164,6 @@ Established: 1890-ish
 
 The Sunset's oldest business period, there's some debate about what year exactly Little Shamrock opened in the 1890s, but there's no denying its place in SF drinking history. According to the Shamrock: "When the 49ers played in Kezar Stadium there were always problems finding parking spaces for the games. People would park in the surrounding neighborhoods and often on their way back to their cars they would stop by the Little Shamrock for a drink. Over the years many famous sports figures also stopped by the pub." This place hasn’t changed much since it opened in 1890, save a couple crucial additions: TVs, every board game you can think of, and a backgammon table.
 
-
 #Northstar Cafe
 ```
 - center: [37.799199, -122.410410]
