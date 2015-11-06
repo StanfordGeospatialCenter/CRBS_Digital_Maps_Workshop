@@ -9,6 +9,7 @@
 - center: [37.762373, -122.434962]
 - zoom: 16
 ```
+![http://castrobiscuit.com/wp-content/uploads/2013/01/Twin-Peaks-Tavern.jpg](http://castrobiscuit.com/wp-content/uploads/2013/01/Twin-Peaks-Tavern.jpg)
 Castro  
 Established: 1935  
 
@@ -19,6 +20,7 @@ The gateway to the Castro, this classic tavern -- one of just two SF bars with l
 - center: [37.800954, -122.436890]
 - zoom: 16
 ```
+![http://www.horseshoetavern.com/files/2013/03/horse.jpg](http://www.horseshoetavern.com/files/2013/03/horse.jpg)
 Marina  
 Established: 1934  
 
@@ -29,6 +31,7 @@ Today the ‘Shoe is known as a hyper-local dive that offers a respite from the 
 - center: [37.803177, -122.414624]
 - zoom: 16
 ```
+![http://media2.fdncms.com/sfweekly/imager/la-roccas-corner/u/zoom/2761426/7255236.0.jpg](http://media2.fdncms.com/sfweekly/imager/la-roccas-corner/u/zoom/2761426/7255236.0.jpg)
 North Beach  
 Established: 1934  
 
@@ -40,6 +43,7 @@ In the '40s and '50s, local mobsters got together at La Rocca’s to decide on w
 - center: [37.786884, -122.411239]
 - zoom: 16
 ```
+![http://cdn.justluxe.com/articles/images/news/redwoodroomclift%20copy.jpg](http://cdn.justluxe.com/articles/images/news/redwoodroomclift%20copy.jpg)
 Union Square  
 Established: 1933  
 
@@ -50,6 +54,7 @@ This bar inside the luxurious Clift has the whole glamour and elegance thing dow
 - center: [37.800022, -122.408923]
 - zoom: 16
 ```
+![http://media1.fdncms.com/sfweekly/imager/tony-niks-cafe/u/zoom/2753440/5596777.0.jpg](http://media1.fdncms.com/sfweekly/imager/tony-niks-cafe/u/zoom/2753440/5596777.0.jpg)
 North Beach  
 Established: 1933  
 
@@ -60,6 +65,7 @@ Don’t be fooled by the “café” sign out front -- one of the oldest signs i
 - center: [37.758043, -122.388513]
 - zoom: 16
 ```
+![http://static.urbandaddy.com/uploads/assets/image/articles/standard/2576d2cd8d293d02cafe293a5f0d1e7f530e5bac.jpg](http://static.urbandaddy.com/uploads/assets/image/articles/standard/2576d2cd8d293d02cafe293a5f0d1e7f530e5bac.jpg)
 Dogpatch  
 Established: 1912  
 
@@ -71,6 +77,7 @@ This neighborhood pub is proof bars only get better with age/redesigns by the 83
 - center: [37.806507, -122.420818]
 - zoom: 16
 ```
+![http://ww1.hdnux.com/photos/10/30/54/2198272/7/920x920.jpg](http://ww1.hdnux.com/photos/10/30/54/2198272/7/920x920.jpg)
 Fisherman’s Wharf  
 Established: 1912  
 
@@ -81,6 +88,7 @@ While the Buena Vista has been in operation since 1912, it wasn’t until 1952 t
 - center: [37.788264, -122.401304]
 - zoom: 16
 ```
+![http://ww2.hdnux.com/photos/07/53/37/2013137/5/920x920.jpg](http://ww2.hdnux.com/photos/07/53/37/2013137/5/920x920.jpg)
 Financial District  
 Established: 1912  
 
@@ -91,6 +99,7 @@ A former gentlemen's club where women were not allowed (unless they were prostit
 - center: [37.785795, -122.418299]
 - zoom: 16
 ```
+![https://nthp-savingplaces.s3.amazonaws.com/2015/10/04/07/34/00/666/140605_blog_photo_HistoricBars_TheGangway_Front_SFAgogo_Flickr.jpg](https://nthp-savingplaces.s3.amazonaws.com/2015/10/04/07/34/00/666/140605_blog_photo_HistoricBars_TheGangway_Front_SFAgogo_Flickr.jpg)
 Tenderloin  
 Established: 1910  
 
@@ -103,6 +112,7 @@ One of the oldest gay bars in the city and the only one with a big-ass ship stic
 - center: [37.779313, -122.398119]
 - zoom: 16
 ```
+![http://ww3.hdnux.com/photos/20/63/22/4404358/3/920x920.jpg](http://ww3.hdnux.com/photos/20/63/22/4404358/3/920x920.jpg)
 SOMA  
 Established: 1908  
 
@@ -114,6 +124,7 @@ Before the Bay Bridge, before Prohibition, when South of Market was just a dusty
 - center: [37.760420, -122.414585]
 - zoom: 16
 ```
+![http://s3-media1.fl.yelpcdn.com/bphoto/3L1EoMsadBadSOLhwpsuYg/o.jpg](http://s3-media1.fl.yelpcdn.com/bphoto/3L1EoMsadBadSOLhwpsuYg/o.jpg)
 The Mission  
 Established: 1902  
 
@@ -124,6 +135,7 @@ Drinking at this bar may be the closest you’ll get to time travel (unless you 
 - center: [37.797570, -122.430717]
 - zoom: 16
 ```
+![https://47006bd19c074195238a-b0b757299a8f3a7022a498c3b4069649.ssl.cf2.rackcdn.com/media/covers/860/large-c49306d97602c8ed.jpg?1360866475](https://47006bd19c074195238a-b0b757299a8f3a7022a498c3b4069649.ssl.cf2.rackcdn.com/media/covers/860/large-c49306d97602c8ed.jpg?1360866475)
 Marina  
 Established: 1900  
 
@@ -135,6 +147,7 @@ As the oldest bar in the Marina, Bus Stop Saloon has been family run for more th
 - center: [37.758724, -122.415667]
 - zoom: 16
 ```
+![http://www.bayareacraftbeer.com/wp-content/uploads/2011/07/Shotwells-Front-Door.jpg](http://www.bayareacraftbeer.com/wp-content/uploads/2011/07/Shotwells-Front-Door.jpg)
 The Mission  
 Established: 1891  
 
@@ -145,6 +158,7 @@ The German immigrants who ran this bar as a grocery store cemented it as the pla
 - center: [37.765690, -122.466708]
 - zoom: 16
 ```
+![http://www.sanfranciscodays.com/photos/large/little-shamrock.jpg](http://www.sanfranciscodays.com/photos/large/little-shamrock.jpg)
 Inner Sunset  
 Established: 1890-ish  
 
@@ -156,6 +170,7 @@ The Sunset's oldest business period, there's some debate about what year exactly
 - center: [37.799199, -122.410410]
 - zoom: 16
 ```
+![https://47006bd19c074195238a-b0b757299a8f3a7022a498c3b4069649.ssl.cf2.rackcdn.com/media/covers/868/large-d45045f8c68db9f5.jpg?1360866497](https://47006bd19c074195238a-b0b757299a8f3a7022a498c3b4069649.ssl.cf2.rackcdn.com/media/covers/868/large-d45045f8c68db9f5.jpg?1360866497)
 North Beach  
 Established: 1882  
 
@@ -167,6 +182,7 @@ GRANT MAREK/THRILLIST
 - center: [37.798563, -122.407085]
 - zoom: 16
 ```
+![http://www.hiddensf.com/wp-content/uploads/2013/08/sf-north-beach-saloon-1b480.jpg](http://www.hiddensf.com/wp-content/uploads/2013/08/sf-north-beach-saloon-1b480.jpg)
 North Beach  
 Established: 1861  
 
