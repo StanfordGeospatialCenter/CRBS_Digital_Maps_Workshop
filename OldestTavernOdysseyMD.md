@@ -1,7 +1,8 @@
 ```
--baseurl: "https://2.maps.nlp.nokia.com/maptile/2.1/maptile/newest/normal.day/{z}/{x}/{y}/256/png8?lg=eng&token=A7tBPacePg9Mj_zghvKt9Q&app_id=KuYppsdXZznpffJsKT24"
+-baseurl: "http://georeferencer-0.tileserver.com//266b60e098fda1ddbe521ebff0e4d8676a549302/map/CGtnosESWB2NnsgVyjmQc5/201411301752-7AINSs/affine/{z}/{x}/{y}.png"
 -title: "The Oldest Bars in San Francisco"
 -author: "Stace Maples, Adapted from https://www.thrillist.com/drink/san-francisco/oldest-bars-in-san-francisco"
+-vizjson: 
 ```
 
 #Twin Peaks Tavern
