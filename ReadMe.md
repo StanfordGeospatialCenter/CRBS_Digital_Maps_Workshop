@@ -184,6 +184,9 @@ If you have not, you should go to [CartoDB.com/signup](http://CartoDB.com/signup
 We will import the data from a CSV exported from this results table:
 [https://docs.google.com/spreadsheets/d/10hAFExkk8V3Onfx1E5vD3FRsaLRaxW6V-_JKlq-pOvY/edit?usp=sharing](https://docs.google.com/spreadsheets/d/10hAFExkk8V3Onfx1E5vD3FRsaLRaxW6V-_JKlq-pOvY/edit?usp=sharing)
 
+Here is a link to a csv file with the data already filled in, in case you are skipping the crowdsourcing part.
+[https://github.com/StanfordGeospatialCenter/CRBS_Digital_Maps_Workshop/raw/master/The%20Oldest%20Bars%20in%20San%20Francisco%20-%20Form%20Responses.csv](https://github.com/StanfordGeospatialCenter/CRBS_Digital_Maps_Workshop/raw/master/The%20Oldest%20Bars%20in%20San%20Francisco%20-%20Form%20Responses.csv)
+
 ##Activity 6 - Creating a StoryMap with Odyssey.js
 
 This part of the workshop is a bit "codey" for some people, so I will treat this as a demonstration. But, don't forget. There wouldn't be any map data for me to work with, if you hadn't done the research you did in the previous section. 
